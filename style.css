@@ -1,0 +1,24 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+    background-color:blanchedalmond;
+}
+
+.top-heading{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.section-header{
+    font-size: 48px;
+    font-weight: 700;
+}
